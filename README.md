@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
   <li><p>Django ORM; Filtering Models, query and manipulate data</p></li>
   <li><p>Celery to automate tasks</p></li>
   <li><p>Rendering context in a template & context processors</p></li>
-  <li><p>wow</p></li>
+  <li><p></p></li>
   <li><p>cool</p></li></ul>
   
   <p><strong>Technical Experience</strong></p>
