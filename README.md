@@ -93,10 +93,10 @@ You can click the Preview link to take a look at your changes.
 <p>2013-2015 (graduated 3.0 gpa)
    <strong><a href="https://www.sunydutchess.edu/academics/catalog/current/programs/liberalartsandsciences/lax.html">Associate in Science (A.S.)</a>
 </strong>; <a href="https://www.sunydutchess.edu/">Dutchess Community College is a SUNY campus located in Poughkeepsie, New York.</a></p>
-<pre><code>*Minor: Computer Information Systems*
+
 
 <p>2000-2004
-:   <strong>New York State Regents Diploma</strong>; Millbrook, NY</p>
+   <strong>New York State Regents Diploma</strong>; Millbrook, NY</p>
 
 </html>
 
