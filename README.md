@@ -94,31 +94,10 @@ You can click the Preview link to take a look at your changes.
    <strong><a href="https://www.sunydutchess.edu/academics/catalog/current/programs/liberalartsandsciences/lax.html">Associate in Science (A.S.)</a>
 </strong>; <a href="https://www.sunydutchess.edu/">Dutchess Community College is a SUNY campus located in Poughkeepsie, New York.</a></p>
 <pre><code>*Minor: Computer Information Systems*
-</code></pre>
-<pre><code>*Thesis title: Deep Learning Approaches to the Self-Awesomeness
- Estimation Problem*
-</code></pre>
 
 <p>2000-2004
 :   <strong>New York State Regents Diploma</strong>; Millbrook, NY</p>
 
 </html>
 
- 
-<!-- 
-<p><p><strong>Technical Experience</strong></p>
-  
-  <p>All My Side Projects are Django related.
-  :   For items which don't have a clear time ordering, a definition
-      list can be used to have named items.</p>
-  
-  <pre><code>* These items can also contain lists, but you need to mind the
-    indentation levels in the markdown source.
-  * Second item.
-  </code></pre>
-  <pre><code>* These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-    </code></pre>
 
-    <hr> -->
