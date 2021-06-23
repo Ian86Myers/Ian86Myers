@@ -2,8 +2,7 @@
 - 👀 I’m interested in ... developing full featured progressive web apps and e-commerce.  
 
 Equipt with hands on knowledge in various web APIs, AJAX, Jinja & Django style templating engine, class-based views, SQL database development in several environments, and best backend practices. 
-
- ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+<hr>
 
 - 🌱 I’m currently learning ... Celery-Redis, Apache Spark
 - 💞️ I’m looking to collaborate on ... Django, VUE.js, React, EMR. 
@@ -99,9 +98,3 @@ You can click the Preview link to take a look at your changes.
    <strong>New York State Regents Diploma</strong>; Millbrook, NY</p>
 
 </html>
-
-
- <div class="w3-panel w3-pale-blue w3-leftbar w3-rightbar w3-border-blue">
-  <p>London is the most populous city in the United Kingdom,
-  with a metropolitan area of over 9 million inhabitants.</p>
-</div> 
