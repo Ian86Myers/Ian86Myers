@@ -41,8 +41,7 @@ You can click the Preview link to take a look at your changes.
   <li><p>Worked on Snowflake, PostgreSQL, SQL Server Management Studio.</p></li>
 </ul>
 
-
-  <p><h3>Fegar Computer Services</h3>                   <center>    <h3 style="center"> New York</h3>       </center>                       <h3 style="left">   01/18-Present</h3> </p>
+:-- | --: | :-:
 
   <h3>BI/Big Data Developer</h3>
   
