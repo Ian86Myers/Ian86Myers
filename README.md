@@ -94,7 +94,7 @@ You can click the Preview link to take a look at your changes.
 
 <ul><li>English (native speaker)</li>
 <li>Problem-solving is what draws me to coding</li>
-<li>Happy and able to communicate and share knowledge or learn from others</li>
+<li>Happy and able to communicate and share knowledge</li>
 <li>Patience, collaboration, and teamwork</li>
 <li>Ready and willing to learn new technologies to broaden my skill set and succeed</li>
 </ul>
