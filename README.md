@@ -79,16 +79,16 @@ You can click the Preview link to take a look at your changes.
   <li><p>Django template language, Built in template tags and filters, Using mixins with class-based-views</p></li>
   <li><p>Able to write automated tests with Django and DRF</p></li>
   <li><p>Django ORM; Filtering Models, query and manipulate data</p></li>
-  <li><p>Automate tasks</p></li>
+  <li><p>Automate tasks with third party packages</p></li>
   <li><p>Rendering context in a template & context processors</p></li>
   <li><p>REST API backend written in Django REST Framework connected to a Single Page frontend written in Vue JS</p></li>
-  <li><p>cool</p></li></ul>
+  <li><p>Adding AJAX actions with JQuery</p></li></ul>
   
   <p><strong>Technical Experience</strong></p>
   
 
 
-<p> Programming Languages etc.: <strong>Python, SQL</strong>, <strong>JSON, XML</strong>, <strong>Java, Scala</strong>, <strong>HTML, CSS, Bootstrap</strong></p>
+<p> Programming Languages etc.: <strong>Python, SQL, Java, Scala</strong> <strong>JSON, XML</strong>, <strong>JavaScript</strong>, <strong>HTML, CSS, Bootstrap</strong></p>
 
 <h2>Soft Skills</h2>
 
