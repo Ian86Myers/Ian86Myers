@@ -42,6 +42,8 @@ You can click the Preview link to take a look at your changes.
 </ul>
 
 <div><h3 align="left">Fegar Computer Services</h3><h3 align="center">New York</h3><h3 align="right">08/18-present</h3></div>
+| Getting Started | Features | Download |
+| =============== | ======== | ======== |
 
   <h3>BI/Big Data Developer</h3>
   
