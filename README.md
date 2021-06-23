@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 </ul>
 
 
-   <h3>Fegar Computer Services</h3> <h3><center>New York</center></h3>
+  <h3>Fegar Computer Services                          New York                                 01/18-Present</h3> 
 
   <h3>BI/Big Data Developer</h3>
   
