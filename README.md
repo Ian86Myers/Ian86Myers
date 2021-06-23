@@ -6,7 +6,7 @@ Equipt with hands on knowledge in various web APIs, AJAX, Jinja & Django style t
  ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 - 🌱 I’m currently learning ... Celery-Redis, Apache Spark
-- 💞️ I’m looking to collaborate on ... Django, VUE.js, React running worker nodes on a cluster, EMR. 
+- 💞️ I’m looking to collaborate on ... Django, VUE.js, React, EMR. 
 - 📫 How to reach me ... Ian86Myers@gmail.com  
 
 <!---
@@ -69,9 +69,9 @@ You can click the Preview link to take a look at your changes.
   <li><p>Django template language, Built in template tags and filters, Using mixins with class-based-views</p></li>
   <li><p>Able to write automated tests with Django and DRF</p></li>
   <li><p>Django ORM; Filtering Models, query and manipulate data</p></li>
-  <li><p>Celery to automate tasks</p></li>
+  <li><p>Automate tasks</p></li>
   <li><p>Rendering context in a template & context processors</p></li>
-  <li><p></p></li>
+  <li><p>REST API backend written in Django REST Framework connected to a Single Page frontend written in Vue JS</p></li>
   <li><p>cool</p></li></ul>
   
   <p><strong>Technical Experience</strong></p>
@@ -80,13 +80,13 @@ You can click the Preview link to take a look at your changes.
 
 <p> Programming Languages etc.: <strong>Python, SQL</strong>, <strong>JSON, XML</strong>, <strong>Java, Scala</strong>, <strong>HTML, CSS, Bootstrap</strong></p>
 
-<h2>Extra Section, Call it Whatever You Want</h2>
+<h2>Soft Skills</h2>
 
 <ul><li>English (native speaker)</li>
-<li></li>
-<li>This is what a nested list looks like.</li></ul>
-<li><p>Random tidbit</p></li>
-<li><p>Other sort of impressive-sounding thing you did</p></li>
+<li>Problem-Solving is what draw me to software development</li>
+<li>Happy to communicate and share knowledge with others</li></ul>
+<li><p>Patience, collaboration, and teamwork</p></li>
+<li><p>Ready and willing to learn new technologies to broaden my skill set</p></li>
 </ul>
 <h2>Education</h2>
 
