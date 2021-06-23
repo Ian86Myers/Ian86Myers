@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... developing full featured progressive web apps and e-commerce.  
 
 Equipt with hands on knowledge in various web APIs, AJAX, Jinja & Django style templating engine, class-based views, SQL database development in several environments, and best backend practices. 
-<hr>
+
 
 - 🌱 I’m currently learning ... Celery-Redis, Apache Spark
 - 💞️ I’m looking to collaborate on ... Django, VUE.js, React, EMR. 
