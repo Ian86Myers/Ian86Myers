@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
 <ul><li>English (native speaker)</li>
 <li>Problem-solving is what draws me to software development</li>
 <li>Happy and able to communicate and share knowledge with others</li>
-<li>Patience, collaboration, and teamwork/li>
+<li>Patience, collaboration, and teamwork</li>
 <li>Ready and willing to learn new technologies to broaden my skill set</li>
 </ul>
 <h2>Education</h2>
