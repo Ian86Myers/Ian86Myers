@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <h2>Professional Summary</h2>
 
 <ul>
-  <li><p>Experience using various version control systems such as git, github, GitKracken, heroku, python anywhere, and Amazon ec2. </p></li>
+  <li><p>Experience using various version control systems such as Git, GitHub, GitKracken, Heroku, PythonAnywhere, and Amazon ec2. </p></li>
   <li><p>Deploying Python Django MVC framework including Django REST framework & various other Web APIs, JSON, Endpoints, Requests module, Model Serializer Class, Nested Relationships:
     <ul><p>Developing frontend VUE JS CLI</p>
     <p>Token Authentication</p>
