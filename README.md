@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
   <li><p>Worked on Snowflake, PostgreSQL, SQL Server Management Studio.</p></li>
 </ul>
 
-:-- | --: | :-:
+<h1 align="center">Material Bread</h1>
 
   <h3>BI/Big Data Developer</h3>
   
