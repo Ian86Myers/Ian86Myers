@@ -98,3 +98,48 @@ You can click the Preview link to take a look at your changes.
    <strong>New York State Regents Diploma</strong>; Millbrook, NY</p>
 
 </html>
+
+
+.header-cont
+{
+	width: 100%;
+	position: fixed;
+	top: 0px;
+}
+.header
+{
+	height: 50px;
+	background: #f0f0f0;
+	border: 1px solid #ccc;
+	width: 80%;
+	margin: 0px auto;
+	line-height: 0px;
+
+}
+.maindiv
+{
+	box-shadow: 15px 0px 10px -11px rgba(0, 0, 0, 0.1), -15px 0px 10px -11px rgba(0, 0, 0, 0.1);
+	width: 960px;
+	background: #f0f0f0;
+	border: 1px solid #ccc;
+	height: 2000px;
+	margin: 70px auto;
+	
+}
+label {
+    float: left;
+    width: 15%;
+    margin-top: .5%;
+
+}
+
+form ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+form ul li {
+    clear: both;
+    margin-top:2%;
+    
+}
