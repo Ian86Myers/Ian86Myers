@@ -41,7 +41,19 @@ You can click the Preview link to take a look at your changes.
   <li><p>Worked on Snowflake, PostgreSQL, SQL Server Management Studio.</p></li>
 </ul>
 
-<header><div><h3 align="left">Fegar Computer Services</h3><h3 align="center">New York</h3><h3 align="right">08/18-present</h3></div></header>
+<div><h3 align="left">Fegar Computer Services</h3><h3 align="center">New York</h3><h3 align="right">01/18-present</h3></div>
+   <h3>Software/Data Engineer</h3>
+   <ul>
+  <li><p>Worked on AWS EMR, JupyterLab for development of Pyspark</p></li>
+  <li><p>Coded Python-panda, numpy & Pyspark</p></li>
+  <li><p>Utilized GitHub & Jenkins for version control & deployment</p></li>
+  <li><p>Migration of  property policy insurance to AWS</p></li>
+  <li><p>Developed JavaScript stored procedure to run on Snowflake</p></li>
+  <li><p>Worked on CI/CD pipeline to run snowpipe to extract XML data from Azure and flatten them into a table</p></li>
+  <li><p>Configure Kafka</p></li>
+  <li><p>Worked on PowerBI Service with developers & users for collaboration</p></li>
+  <li><p>Worked on PowerBI  to create reports, dashboards & stories </p></li>
+  <li><p>Coded python-panda, NumPy, & Pyspark</p></li></ul>
 
   <h3>BI/Big Data Developer</h3>
   
