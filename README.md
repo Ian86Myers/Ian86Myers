@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <h2><block style="display: inline-block;"></block></h2> -->
 <h2>Professional Summary</h2>
 
-<ul>jira,
+<ul>
   <li><p>Experience using various version control systems such as Git, GitHub, GitKracken, Heroku, PythonAnywhere, Jira, s3 buckets and Amazon ec2. </p></li>
   <li><p>Deploying Python Django MVC framework including Django REST framework & various other Web APIs, JSON, Endpoints, Requests module, Model Serializer Class, Nested Relationships:
     <ul><p>Developing frontend VUE JS CLI</p>
