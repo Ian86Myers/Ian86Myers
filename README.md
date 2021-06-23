@@ -83,10 +83,10 @@ You can click the Preview link to take a look at your changes.
 <h2>Soft Skills</h2>
 
 <ul><li>English (native speaker)</li>
-<li>Problem-Solving is what draw me to software development</li>
-<li>Happy to communicate and share knowledge with others</li></ul>
-<li><p>Patience, collaboration, and teamwork</p></li>
-<li><p>Ready and willing to learn new technologies to broaden my skill set</p></li>
+<li>Problem-solving is what draws me to software development</li>
+<li>Happy and able to communicate and share knowledge with others</li></ul>
+<li>Patience, collaboration, and teamwork/li>
+<li>Ready and willing to learn new technologies to broaden my skill set</li>
 </ul>
 <h2>Education</h2>
 
