@@ -86,9 +86,9 @@ You can click the Preview link to take a look at your changes.
   
   <p><strong>Technical Experience</strong></p>
   
+<p>Browser based technolgies:  <strong>JSON, XML</strong>, <strong>JavaScript</strong>, <strong>HTML, CSS, Bootstrap</strong></p>
 
-
-<p> Programming Languages etc.: <strong>Python, SQL, Java, Scala</strong> <strong>JSON, XML</strong>, <strong>JavaScript</strong>, <strong>HTML, CSS, Bootstrap</strong></p>
+<p> Programming Languages etc.: <strong>Python, SQL, Java, Scala</strong></p>
 
 <h2>Soft Skills</h2>
 
