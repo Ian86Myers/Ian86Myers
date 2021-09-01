@@ -41,36 +41,6 @@ You can click the Preview link to take a look at your changes.
   <li><p>Worked on Snowflake, PostgreSQL, SQL Server Management Studio.</p></li>
 </ul>
 
-<div><h3 align="left">Fegar Computer Services</h3><h3 align="center">New York</h3><h3 align="right">01/18-present</h3></div>
-   <h3>Software/Data Engineer</h3>
-   <ul>
-  <li><p>Worked on AWS EMR, JupyterLab for development of Pyspark</p></li>
-  <li><p>Coded Python-panda, numpy & Pyspark</p></li>
-  <li><p>Utilized GitHub & Jenkins for version control & deployment</p></li>
-  <li><p>Migration of  property policy insurance to AWS</p></li>
-  <li><p>Developed JavaScript stored procedure to run on Snowflake</p></li>
-  <li><p>Worked on CI/CD pipeline to run snowpipe to extract XML data from Azure and flatten them into a table</p></li>
-  <li><p>Configure Kafka</p></li>
-  <li><p>Worked on PowerBI Service with developers & users for collaboration</p></li>
-  <li><p>Worked on PowerBI  to create reports, dashboards & stories </p></li>
-  <li><p>Coded python-panda, NumPy, & Pyspark</p></li></ul>
-
-  <h3>BI/Big Data Developer</h3>
-  
-  <ul>
-  <li><p>Authored PowerBI & Tableau dashboards for clients</p></li>
-  <li><p>Developed reports, dashboards, and stories</p></li>
-  <li><p>Extracted & shaped data from various sources using PowerQuery and integrate then into a source dataset.</p></li>
-  <li><p>Data transforms, design of metrics using DAX scripting in PowerBI & emdeding views and JavaScript API in Tableau.</p></li>
-  <li><p>Data Model design in PowerBI star schema</p></li>
-  <li><p>Blended data, design prompts, passing of parameters, design filters, build maps, edit axes, build groups & sets, build hierarchies and rollups , & sorting for better data visualization in Tableau.</p></li>
-  <li><p>Design of KPI, gauges and cards to measure performance ; pivoting and unpivoting, transform of text, numbers, dates and create customs using the M language; add columns , view and help menus.</p></li>
-  <li><p>Worked on PowerBI Service with developers & users for collaboration.</p></li>
-  <li><p>Worked on DAX scripting to build SSAS tabular model.</p></li>
-  <li><p>Worked on SSIS to extract data to build the data warehouse which ultimately consumed by SSAS tabular model.</p></li></ul>
-  
-  
-
   <h3>Fullstack Software Developer Python</h3>
   
  
@@ -88,7 +58,6 @@ You can click the Preview link to take a look at your changes.
   
 <p>Browser based technolgies:  <strong>JSON, XML</strong>, <strong>JavaScript/JQuery</strong>, <strong>HTML, CSS, Bootstrap</strong></p>
 
-<p> Programming Languages etc.: <strong>Python, SQL, Java, Scala</strong></p>
 <p>API interaction:<strong> Django REST API, JSON, AJAX</strong></p>
 <h2>Soft Skills</h2>
 
