@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Here is an overview of my Software Development at IBM
 
 # Audit
 
