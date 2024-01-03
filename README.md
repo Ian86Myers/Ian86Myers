@@ -13,7 +13,7 @@ In 2023, I contributed to the GPA-Web project in Audit. GPA-Web is a web GUI tha
 - Developed functions to construct file path links for various reports from multiple endpoints.
 - Added a feature to gather current user tokens, display them in a ToolTip, and grant access to read external files.
 - Updated backend Node.js code to fetch data efficiently.
-- Utilized React JS (code) for an interactive table feature and presented mock-ups in Agile meetings.
+- Utilized React JS for an interactive table feature and presented mock-ups in Agile meetings.
 
 # Infrastructure
 
@@ -25,7 +25,7 @@ During my tenure in infrastructure, I collaborated with mentors on a capstone pr
 - Developed a dynamic MUI table with custom horizontal bars in cells by utilizing MUI’s `renderCell` method.
 - Implemented a multi-tiered navigation bar system for seamless content access.
 - Utilized Chart JS to create interactive charts for each server and hosts. Dynamic bar chart & scatter plot.
-- Created a graphical hierarchy of projects breakdown and memory allocation per each chip design. Code.
+- Created a graphical hierarchy of projects breakdown and memory allocation per each chip design.
 - Utilized Pandas and SQL to extract, process, and analyze data from a MySQL database, demonstrating strong data analysis skills.
 - Achieved efficient querying and data retrieval using Pandas DataFrame, showcasing optimization skills for large datasets.
 - Utilized `argparse` for command line argument parsing.
