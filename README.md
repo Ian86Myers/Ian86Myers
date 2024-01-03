@@ -33,13 +33,13 @@ During my tenure in infrastructure, I collaborated with mentors on a capstone pr
 - Executed SQL queries to retrieve project metrics.
 - Nested loop through SQL with Python to create hierarchical data.
 - Created visualizations, including pie charts and tables, using Matplotlib.
-- Server inventory script - To prepare for data migration and upgrading of existing servers. I wrote a bash script to:
+Server inventory script - To prepare for data migration and upgrading of existing servers. I wrote a bash script to:
   - Cron Job ran hourly for each server listed in database to help catch other automated scripts.
   - Handled conditions for different server architectures (linux & x86).
   - After implementing several filters I extracted all running processes, sub processes, and their owners per each server.
   - Created and populated a table for extracted data.
   - Filtered all rows for unknown or forgotten processes.
-- Policy Warning report
+Policy Warning report
   - Developed a Python script for policy warning reports, showcasing expertise in data manipulation and database interactions.
   - Implemented policy checks, including state management and time-based conditions, to identify inactive servers and potential issues.
   - Enhanced script readability and user-friendliness through well-structured code and informative output messages.
@@ -47,5 +47,4 @@ During my tenure in infrastructure, I collaborated with mentors on a capstone pr
   - Contributed to automated policy enforcement by identifying servers nearing spin-down thresholds, emphasizing practical coding abilities while providing a useful tool.
   
 (Generic code details- not domain specific details)
-
 Include details about your contributions, the technologies used, and any significant results or achievements.
