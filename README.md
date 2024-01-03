@@ -1,5 +1,6 @@
-### Hi there 👋 Here is an overview of my Software Development at IBM
-
+### Here is an overview of my Software Development at IBM
+(Generic code details- not domain specific details)
+Includes details about my contributions, the technologies used, and any significant results or achievements.
 # Audit
 
 In 2023, I contributed to the GPA-Web project in Audit. GPA-Web is a web GUI that displays test reports and error messages for individual chip designs from an interactive table. I enhanced the frontend using React JS and the backend with Node.js, creating dynamic queries and endpoints. My key contributions included:
@@ -46,5 +47,4 @@ Policy Warning report
   - Demonstrated proficiency in command-line argument parsing and integration with external data sources for dynamic reporting.
   - Contributed to automated policy enforcement by identifying servers nearing spin-down thresholds, emphasizing practical coding abilities while providing a useful tool.
   
-(Generic code details- not domain specific details)
-Include details about your contributions, the technologies used, and any significant results or achievements.
+
