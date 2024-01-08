@@ -49,7 +49,7 @@ Policy Warning report
   - Demonstrated proficiency in command-line argument parsing and integration with external data sources for dynamic reporting.
   - Contributed to automated policy enforcement by identifying servers nearing spin-down thresholds, emphasizing practical coding abilities while providing a useful tool.
   
-# My commitment to delivering high-quality, optimized, and scalable solutions, coupled with a comprehensive understanding of backend technologies, positions me as a valuable asset in software engineering roles. I am eager to contribute my skills to dynamic projects that demand excellence in database management and backend development.
+### My commitment to delivering high-quality, optimized, and scalable solutions, coupled with a comprehensive understanding of backend technologies, positions me as a valuable asset in software engineering roles. I am eager to contribute my skills to dynamic projects that demand excellence in database management and backend development.
 
 Key Achievements:
 
