@@ -54,7 +54,7 @@ Policy Warning report
 - **Database Management and Optimization:**
   - Demonstrated expertise in database interaction, schema understanding, and efficient data manipulation. Successfully implemented solutions for creating temporary tables, adding constraints, and optimizing data retrieval.
 
-- **Querying and Filtering Mastery:**
+- **Querying and Filtering:**
   - Strong command over SQL querying and filtering techniques, evident in the use of advanced `SELECT` statements with conditions, joins, and result set sorting. Ensured precision in data retrieval for various scenarios.
 
 - **Data Analysis and Maintenance:**
@@ -65,8 +65,6 @@ Policy Warning report
 
 - **Backend Development Proficiency:**
   - Complemented database skills with broader backend development knowledge. Experienced in Node.js, Django ORM, SQL in Bash and adept at creating solutions for real-world applications.
-
-- **Backend Development Expertise:**
   - Proven ability to design and implement robust backend solutions using Node.js.
   - Developed generic endpoints for dynamic data retrieval, emphasizing flexibility and scalability.
 
