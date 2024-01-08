@@ -40,10 +40,10 @@ The React component enhances the GPA-Web project's user interface with dynamic d
       - Manages asynchronous data fetching for Helper data, verification, and state updates.
       - Handle fetch errors.
 
-- Improved user experience with real-time Helper availability insights.
-- Enhanced user engagement through dynamic tooltips and color-coded icons for quick user feedback..
-- Contributed to analytics data for GPA module interactions.
-- Ensured efficient data retrieval and handling with modular code design.
+  - Improved user experience with real-time Helper availability insights.
+  - Enhanced user engagement through dynamic tooltips and color-coded icons for quick user feedback..
+  - Contributed to analytics data for GPA module interactions.
+  - Ensured efficient data retrieval and handling with modular code design.
 
 
 ## Additional Contributions:
