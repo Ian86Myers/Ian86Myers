@@ -1,5 +1,5 @@
 ### Here is an overview of my Software Development technical contributions at IBM
-Generic code details- not domain specific details. Includes details about my contributions, the technologies used, and any significant results or achievements.
+Generic code details - not domain specific details. Includes details about my contributions, the technologies used, and any significant results or achievements.
 # Audit Contribution - GPA-Web Project (2023)
 
 I played a pivotal role in advancing the GPA-Web project during my contribution to the Audit module. GPA-Web, a web GUI, serves as an interactive platform displaying test reports and error messages for individual chip designs. My focus encompassed enhancing both the frontend using React JS and the backend with Node.js, where I crafted dynamic queries and endpoints. Key highlights of my contributions include:
