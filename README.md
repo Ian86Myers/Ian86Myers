@@ -64,7 +64,7 @@ Policy Warning report
   - Implemented robust strategies for handling duplicates, such as using `INSERT IGNORE` and attempting to delete duplicates based on unique constraints. Prioritized data integrity in all database operations.
 
 - **Backend Development Proficiency:**
-  - Complemented database skills with broader backend development knowledge. Experienced in [mention any specific backend languages, frameworks, or tools you've used] and adept at creating solutions for real-world applications.
+  - Complemented database skills with broader backend development knowledge. Experienced in Node.js and adept at creating solutions for real-world applications.
 
 - **Backend Development Expertise:**
   - Proven ability to design and implement robust backend solutions using Node.js.
