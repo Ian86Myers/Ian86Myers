@@ -28,6 +28,7 @@ The React component enhances the GPA-Web project's user interface with dynamic d
       - Retrieves cell values from verified Helpers for user awareness.
     - **`useEffect` for Data Fetching:**
       - Manages asynchronous data fetching for Helper data, verification, and state updates.
+      - Handle fetch errors.
 
 ## Achievements:
 - Improved user experience with real-time Helper availability insights.
