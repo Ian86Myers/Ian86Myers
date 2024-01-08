@@ -64,7 +64,7 @@ Policy Warning report
   - Implemented robust strategies for handling duplicates, such as using `INSERT IGNORE` and attempting to delete duplicates based on unique constraints. Prioritized data integrity in all database operations.
 
 - **Backend Development Proficiency:**
-  - Complemented database skills with broader backend development knowledge. Experienced in Node.js and adept at creating solutions for real-world applications.
+  - Complemented database skills with broader backend development knowledge. Experienced in Node.js, Django ORM, SQL in Bash and adept at creating solutions for real-world applications.
 
 - **Backend Development Expertise:**
   - Proven ability to design and implement robust backend solutions using Node.js.
@@ -78,13 +78,13 @@ Policy Warning report
   - Demonstrated proficiency in creating RESTful APIs to handle diverse requests and optimize data access.
 
 - **Code Modularity and Reusability:**
-  - Emphasized code modularity and reusability, evident in functions like `getLogInfoTable`, `getMacroTable`, and `getTable`.
+  - Emphasized code modularity and reusability.
 
 - **Query Optimization:**
   - Applied query optimization techniques to ensure fast and efficient data retrieval, enhancing overall system performance.
 
 - **Parameterized Endpoints:**
-  - Leveraged parameterized endpoints for generic and flexible data retrieval based on project, chipid, library, and level.
+  - Leveraged parameterized endpoints for generic and flexible data retrieval.
 
 - **Version Control and Documentation:**
   - Maintained clean and organized codebase, incorporating version control best practices.
@@ -95,9 +95,6 @@ Policy Warning report
 
 - **Collaborative Problem Solving:**
   - Collaborated effectively with cross-functional teams to address challenges and deliver high-quality solutions.
-
-- **Technical Proficiency:**
-  - Demonstrated proficiency in handling diverse technical aspects, including RESTful API development, SQL databases, and parameterized endpoints.
-
+    
 - **Attention to Detail:**
   - Paid meticulous attention to detail in code structure, SQL queries, and overall system architecture.
