@@ -13,6 +13,18 @@ I played a pivotal role in advancing the GPA-Web project during my contribution 
 - **User Interaction Enhancement:**
   - Implemented a feature enabling users to view test and report links with a simple click on the Cell Name column.
   - Developed modular functions (`handleCellClick` and `handleMacroCellClick`) to capture Grade and Macro clicks in a dynamic table.
+  - - **`handleCellClick`:**
+  - Tracks Grade and Macro clicks in a dynamic table.
+  - Utilizes Matomo for event tracking to log user actions.
+  - Fetches and manages data using React hooks, enhancing state management.
+  - Displays test and report links upon clicking the Cell Name column.
+
+- **`handleMacroCellClick`:**
+  - Tracks Macro clicks in a dynamic table using Matomo event tracking.
+  - Creates comprehensive test records for Macro-related tests.
+  - Utilizes React JS for an interactive table feature.
+  - Presents mock-ups in Agile meetings for feedback.
+
  
 - **Test Record Generation:**
   - Engineered the `createTestDebugRecord` function for comprehensive test record creation.
