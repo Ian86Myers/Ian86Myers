@@ -14,7 +14,7 @@ I played a pivotal role in advancing the GPA-Web project during my contribution 
   - Implemented a feature enabling users to view test and report links with a simple click on the Cell Name column.
   - Developed modular functions (`handleCellClick` and `handleMacroCellClick`) to capture Grade and Macro clicks in a dynamic table.
   - **`handleCellClick`:**
-     - Fetches and manages data using React hooks, enhancing state management.
+    - Fetches and manages data using React hooks, enhancing state management.
     - Creates a structured message object with macro and test details.
     - Generates check and audit reports, offering detailed debugging insights.
   
@@ -25,7 +25,7 @@ I played a pivotal role in advancing the GPA-Web project during my contribution 
 
  
 - **Test Record Generation:**
-  - Engineered the `createTestDebugRecord` function for comprehensive test record creation.
+  - Engineered the `createTestDebugRecord` function for comprehensive test record creation from multiple endpoints.
   - Efficiently concatenated audit and check reports, providing detailed insights for debugging.
   - Ensured reliable performance by implementing robust error handling for various scenarios.
 
@@ -61,7 +61,6 @@ The React component enhances the GPA-Web project's user interface with dynamic d
 - Enhanced layout, formatting, and filtering for an improved user experience.
 - Debugged existing features.
 - Integrated `@eda/route-auth` middleware for authentication on both frontend and backend to pass a security audit.
-- Developed functions to construct file path links for various reports from multiple endpoints.
 - Updated backend Node.js code for efficient data fetching.
 - Utilized React JS to implement an interactive table feature and presented mock-ups in Agile meetings.
 
