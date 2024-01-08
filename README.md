@@ -21,7 +21,7 @@ I played a pivotal role in advancing the GPA-Web project during my contribution 
 
 - **React Helper Icon Component:**
 The React component enhances the GPA-Web project's user interface with dynamic data, a feature to gather current user tokens, display them in a ToolTip, and grant access to read external files.:    
-    - - ***Key Functions:***
+   ***Key Functions:***
     - **`verifyHelpers`:**
       - Asynchronously verifies Helpers and filters responses for Helpers running on AFS/GPFS.  
     - **`getCellsWithTokens`:**
