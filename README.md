@@ -13,15 +13,15 @@ I played a pivotal role in advancing the GPA-Web project during my contribution 
 - **User Interaction Enhancement:**
   - Implemented a feature enabling users to view test and report links with a simple click on the Cell Name column.
   - Developed modular functions (`handleCellClick` and `handleMacroCellClick`) to capture Grade and Macro clicks in a dynamic table.
-  - - **`handleCellClick`:**
-   - Fetches and manages data using React hooks, enhancing state management.
-  - Creates a structured message object with macro and test details.
-  - Generates check and audit reports, offering detailed debugging insights.
-
-- **`handleMacroCellClick`:**
-  - Creates comprehensive test records for Macro-related tests.
-  - Enhances readability by sorting and filtering tests.
-  - Generates check and audit reports for selected tests, aiding in debugging.
+  - **`handleCellClick`:**
+     - Fetches and manages data using React hooks, enhancing state management.
+    - Creates a structured message object with macro and test details.
+    - Generates check and audit reports, offering detailed debugging insights.
+  
+  - **`handleMacroCellClick`:**
+    - Creates comprehensive test records for Macro-related tests.
+    - Enhances readability by sorting and filtering tests.
+    - Generates check and audit reports for selected tests, aiding in debugging.
 
  
 - **Test Record Generation:**
