@@ -20,7 +20,7 @@ I played a pivotal role in advancing the GPA-Web project during my contribution 
   - Ensured reliable performance by implementing robust error handling for various scenarios.
 
 - **React Helper Icon Component:**
-The React component enhances the GPA-Web project's user interface with dynamic features a feature to gather current user tokens, display them in a ToolTip, and grant access to read external files.:
+The React component enhances the GPA-Web project's user interface with dynamic data, a feature to gather current user tokens, display them in a ToolTip, and grant access to read external files.:
 
 - **Dynamic Tooltip:**
   - Updates tooltip content dynamically for information on starting a Helper for file access.
