@@ -49,8 +49,7 @@ Policy Warning report
   - Demonstrated proficiency in command-line argument parsing and integration with external data sources for dynamic reporting.
   - Contributed to automated policy enforcement by identifying servers nearing spin-down thresholds, emphasizing practical coding abilities while providing a useful tool.
   
-
-As a seasoned Software Engineer with a focus on backend development, I bring a wealth of experience in database management, optimization, and data analysis. My proficiency is highlighted through the following key achievements:
+My commitment to delivering high-quality, optimized, and scalable solutions, coupled with a comprehensive understanding of backend technologies, positions me as a valuable asset in software engineering roles. I am eager to contribute my skills to dynamic projects that demand excellence in database management and backend development.  My proficiency is highlighted through the following key achievements:
 
 - **Database Management and Optimization:**
   - Demonstrated expertise in database interaction, schema understanding, and efficient data manipulation. Successfully implemented solutions for creating temporary tables, adding constraints, and optimizing data retrieval.
@@ -67,7 +66,6 @@ As a seasoned Software Engineer with a focus on backend development, I bring a w
 - **Backend Development Proficiency:**
   - Complemented database skills with broader backend development knowledge. Experienced in [mention any specific backend languages, frameworks, or tools you've used] and adept at creating solutions for real-world applications.
 
-My commitment to delivering high-quality, optimized, and scalable solutions, coupled with a comprehensive understanding of backend technologies, positions me as a valuable asset in software engineering roles. I am eager to contribute my skills to dynamic projects that demand excellence in database management and backend development.
 **Backend Development Expertise:**
 - Proven ability to design and implement robust backend solutions using Node.js.
 - Developed generic endpoints for dynamic data retrieval, emphasizing flexibility and scalability.
