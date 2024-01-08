@@ -1,20 +1,46 @@
-### Here is an overview of my Software Development at IBM
-(Generic code details- not domain specific details)
-Includes details about my contributions, the technologies used, and any significant results or achievements.
-# Audit
+### Here is an overview of my Software Development technical contributions at IBM
+Generic code details- not domain specific details. Includes details about my contributions, the technologies used, and any significant results or achievements.
+# Audit Contribution - GPA-Web Project (2023)
 
-In 2023, I contributed to the GPA-Web project in Audit. GPA-Web is a web GUI that displays test reports and error messages for individual chip designs from an interactive table. I enhanced the frontend using React JS and the backend with Node.js, creating dynamic queries and endpoints. My key contributions included:
+I played a pivotal role in advancing the GPA-Web project during my contribution to the Audit module. GPA-Web, a web GUI, serves as an interactive platform displaying test reports and error messages for individual chip designs. My focus encompassed enhancing both the frontend using React JS and the backend with Node.js, where I crafted dynamic queries and endpoints. Key highlights of my contributions include:
 
-- A/B testing. I used a legacy app with known validity to test against as well as the source database.
-- Utilized React hooks to fetch and manage data, to be held on state in our application and passed down the component tree as a prop object.
-- Implemented a feature that allows users to view test and report links by clicking on the Cell Name column. Code example of how the message object is created.
-- Enhanced layout, formatting, and filtering for improved user experience.
+- **A/B Testing:**
+  - Conducted A/B testing using a legacy app with known validity and the source database.
+  
+- **React Hooks Implementation:**
+  - Utilized React hooks to fetch and manage data, maintaining it on state within our application and passing it down the component tree as a prop object.
+  
+- **User Interaction Enhancement:**
+  - Implemented a feature enabling users to view test and report links with a simple click on the Cell Name column.
+
+## Additional Contributions:
+
+### User Interaction Tracking:
+- Implemented robust user interaction tracking for system analytics.
+- Developed modular functions (`handleCellClick` and `handleMacroCellClick`) to capture Grade and Macro clicks in a dynamic table.
+- Leveraged event tracking to log user actions and optimize data retrieval efficiency.
+
+### Test Record Generation:
+- Engineered the `createTestDebugRecord` function for comprehensive test record creation.
+- Efficiently concatenated audit and check reports, providing detailed insights for debugging.
+- Ensured reliable performance by implementing robust error handling for various scenarios.
+
+### Continuous Improvement and Code Optimization:
+- Actively contributed to continuous improvement initiatives, optimizing code structure and enhancing user-facing features.
+- Demonstrated meticulous attention to detail through effective logging and error handling practices.
+
+### Technology Proficiency:
+- Applied generic code details for a scalable and maintainable solution.
+- Showcased proficiency in event tracking, dynamic data manipulation, and modular code design.
+
+### Additional Technical Contributions:
+- Enhanced layout, formatting, and filtering for an improved user experience.
 - Debugged existing features.
-- Added `@eda/route-auth` middleware for authentication to front and backend to pass a security audit.
+- Integrated `@eda/route-auth` middleware for authentication on both frontend and backend to pass a security audit.
 - Developed functions to construct file path links for various reports from multiple endpoints.
 - Added a feature to gather current user tokens, display them in a ToolTip, and grant access to read external files.
-- Updated backend Node.js code to fetch data efficiently.
-- Utilized React JS for an interactive table feature and presented mock-ups in Agile meetings.
+- Updated backend Node.js code for efficient data fetching.
+- Utilized React JS to implement an interactive table feature and presented mock-ups in Agile meetings.
 
 # Infrastructure
 
