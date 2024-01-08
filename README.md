@@ -28,12 +28,10 @@ The React component enhances the GPA-Web project's user interface with dynamic d
       - Retrieves cell values from verified Helpers for user awareness.
     - **`useEffect` for Data Fetching:**
       - Manages asynchronous data fetching for Helper data, verification, and state updates.
-    - **Dynamic Icon Color:**
-      - Changes icon color based on verified Helper presence for quick user feedback.
 
 ## Achievements:
 - Improved user experience with real-time Helper availability insights.
-- Enhanced user engagement through dynamic tooltips and color-coded icons.
+- Enhanced user engagement through dynamic tooltips and color-coded icons for quick user feedback..
 - Contributed to analytics data for GPA module interactions.
 - Ensured efficient data retrieval and handling with modular code design.
 
