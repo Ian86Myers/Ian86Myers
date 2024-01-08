@@ -22,27 +22,27 @@ I played a pivotal role in advancing the GPA-Web project during my contribution 
 - **React Helper Icon Component:**
 The React component enhances the GPA-Web project's user interface with dynamic data, a feature to gather current user tokens, display them in a ToolTip, and grant access to read external files.:
 
-- **Dynamic Tooltip:**
-  - Updates tooltip content dynamically for information on starting a Helper for file access.
-
-- **Helper Verification:**
-  - Implements asynchronous functions for fetching user IDs and verifying Helper availability.
-
-- **Display of Cell Values:**
-  - Extracts cell values from Helper tokens, displaying them dynamically in the tooltip.
-
-- **Dynamic Icon Color:**
-  - Changes icon color based on verified Helper presence for quick user feedback.
-
-- - ***Key Functions:***
-- **`verifyHelpers`:**
-  - Asynchronously verifies Helpers and filters responses for Helpers running on AFS/GPFS.
-
-- **`getCellsWithTokens`:**
-  - Retrieves cell values from verified Helpers for user awareness.
-
-- **`useEffect` for Data Fetching:**
-  - Manages asynchronous data fetching for Helper data, verification, and state updates.
+    - **Dynamic Tooltip:**
+      - Updates tooltip content dynamically for information on starting a Helper for file access.
+    
+    - **Helper Verification:**
+      - Implements asynchronous functions for fetching user IDs and verifying Helper availability.
+    
+    - **Display of Cell Values:**
+      - Extracts cell values from Helper tokens, displaying them dynamically in the tooltip.
+    
+    - **Dynamic Icon Color:**
+      - Changes icon color based on verified Helper presence for quick user feedback.
+    
+    - - ***Key Functions:***
+    - **`verifyHelpers`:**
+      - Asynchronously verifies Helpers and filters responses for Helpers running on AFS/GPFS.
+    
+    - **`getCellsWithTokens`:**
+      - Retrieves cell values from verified Helpers for user awareness.
+    
+    - **`useEffect` for Data Fetching:**
+      - Manages asynchronous data fetching for Helper data, verification, and state updates.
 
 ## Achievements:
 - Improved user experience with real-time Helper availability insights.
