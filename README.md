@@ -12,33 +12,60 @@ I played a pivotal role in advancing the GPA-Web project during my contribution 
   
 - **User Interaction Enhancement:**
   - Implemented a feature enabling users to view test and report links with a simple click on the Cell Name column.
+  - Developed modular functions (`handleCellClick` and `handleMacroCellClick`) to capture Grade and Macro clicks in a dynamic table.
+ 
+- **Test Record Generation:**
+  - Engineered the `createTestDebugRecord` function for comprehensive test record creation.
+  - Efficiently concatenated audit and check reports, providing detailed insights for debugging.
+  - Ensured reliable performance by implementing robust error handling for various scenarios.
+
+- **React Helper Icon Component:**
+The React component enhances the GPA-Web project's user interface with dynamic features a feature to gather current user tokens, display them in a ToolTip, and grant access to read external files.:
+
+- **Dynamic Tooltip:**
+  - Updates tooltip content dynamically for information on starting a Helper for file access.
+
+- **Helper Verification:**
+  - Implements asynchronous functions for fetching user IDs and verifying Helper availability.
+
+- **Display of Cell Values:**
+  - Extracts cell values from Helper tokens, displaying them dynamically in the tooltip.
+
+- **Dynamic Icon Color:**
+  - Changes icon color based on verified Helper presence for quick user feedback.
+
+- - ***Key Functions:***
+- **`verifyHelpers`:**
+  - Asynchronously verifies Helpers and filters responses for Helpers running on AFS/GPFS.
+
+- **`getCellsWithTokens`:**
+  - Retrieves cell values from verified Helpers for user awareness.
+
+- **`useEffect` for Data Fetching:**
+  - Manages asynchronous data fetching for Helper data, verification, and state updates.
+
+## Achievements:
+- Improved user experience with real-time Helper availability insights.
+- Enhanced user engagement through dynamic tooltips and color-coded icons.
+- Contributed to analytics data for GPA module interactions.
+- Ensured efficient data retrieval and handling with modular code design.
+
 
 ## Additional Contributions:
-
-### User Interaction Tracking:
 - Implemented robust user interaction tracking for system analytics.
-- Developed modular functions (`handleCellClick` and `handleMacroCellClick`) to capture Grade and Macro clicks in a dynamic table.
-- Leveraged event tracking to log user actions and optimize data retrieval efficiency.
-
-### Test Record Generation:
-- Engineered the `createTestDebugRecord` function for comprehensive test record creation.
-- Efficiently concatenated audit and check reports, providing detailed insights for debugging.
-- Ensured reliable performance by implementing robust error handling for various scenarios.
 
 ### Continuous Improvement and Code Optimization:
 - Actively contributed to continuous improvement initiatives, optimizing code structure and enhancing user-facing features.
 - Demonstrated meticulous attention to detail through effective logging and error handling practices.
 
 ### Technology Proficiency:
-- Applied generic code details for a scalable and maintainable solution.
-- Showcased proficiency in event tracking, dynamic data manipulation, and modular code design.
+- Showcased proficiency in  modular code design.
 
 ### Additional Technical Contributions:
 - Enhanced layout, formatting, and filtering for an improved user experience.
 - Debugged existing features.
 - Integrated `@eda/route-auth` middleware for authentication on both frontend and backend to pass a security audit.
 - Developed functions to construct file path links for various reports from multiple endpoints.
-- Added a feature to gather current user tokens, display them in a ToolTip, and grant access to read external files.
 - Updated backend Node.js code for efficient data fetching.
 - Utilized React JS to implement an interactive table feature and presented mock-ups in Agile meetings.
 
